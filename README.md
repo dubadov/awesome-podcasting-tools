@@ -50,6 +50,7 @@
 
 - **[Canva](https://www.canva.com/)** - Create podcast cover art and promotional graphics.
 - **[Headliner](https://www.headliner.app/)** - Create audiograms and shareable video clips from your episodes.
+- **[ClipRocket Studio](https://cliprocketstudio.com)** - Hebrew-first AI clip generator that turns long-form video podcasts into vertical shorts for YouTube Shorts, TikTok, and Reels with burned-in Hebrew captions.
 - **[Buffer](https://buffer.com/)** - Schedule social media posts to promote your podcast.
 - **[Aweber](https://www.aweber.com/)** - An email marketing platform for engaging your audience.
 - **[Linktree](https://linktr.ee/)** - Share all your podcast links in one place.
